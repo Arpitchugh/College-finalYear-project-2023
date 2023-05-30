@@ -2,7 +2,10 @@
 
 This is a full-stack web application that displays the latest news articles from various tech websites. The app allows users to read the latest tech news articles from popular websites without having to navigate to each website individually.
 
-**_<p style="text-align: center;">[![Example](https://media.discordapp.net/attachments/1054435288576966777/1087293332813795328/Screenshot_2023-03-20_104653.png?width=1395&height=662)](https://discord.gg/PcUVWApWN3)</p>_**
+<p style="text-align: center;">
+<!-- Add Image -->
+<img src="./ss.png" width="500" height="300" alt="Latest Tech News App" />
+</p>
 
 ## Features
 
@@ -15,15 +18,14 @@ This is a full-stack web application that displays the latest news articles from
 ## Server-side Setup
 
 1. Navigate to the project directory: `cd react-news-app/server`
-2. Install dependencies: `npm install`
-3. Start the server: `npm run dev`
+2. Install dependencies: `yarn`
+3. Start the server: `yarn run dev`
 
 ## Client-side Setup
 
 1. Navigate to the project directory: `cd react-news-app/client`
-2. Install dependencies: `npm install`
-3. Go to src/App.jsx and change `API_BASE_URL` to Your Server Side API Url
-4. Start the client: `npm run dev`
+2. Install dependencies: `yarn install`
+3. Start the client: `yarn run dev`
 
 ## Technologies Used
 

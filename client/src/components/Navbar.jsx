@@ -21,7 +21,8 @@ function Navbar() {
 						? 'Good Morning'
 						: time < '16:00:00'
 						? 'Good Afternoon'
-						: 'Good Evening'}
+						: 'Good Evening'}{', '}
+					<span className='text-blue-500'> UpTech</span>
 				</a>
 			</div>
 			<form className='w-full max-w-sm p-2'>

@@ -36,8 +36,7 @@ const ProfileCard = () => {
 			firstName: 'Ankush ',
 			lastName: 'Sharma',
 			occupation: 'Software Developer',
-			imageUrl:
-				'https://lh3.googleusercontent.com/-iGj3ccGnxNEyziapDLn8hvgU0R40zRAU3a9xgvxDMj9ByOBk-Bngvz-JyNKGAy4Riqt0knFmOj-H8dcYv_BmUX7cOZMqCMEwE-QbRPGUyqbr8HWyaG0GcfRfVzY1SMBEbP0D9rYJdJSUYvhbkEMPza2Oh--wDP9m1Ox93VrevuqYy_AceQlha3dNh8Zd1L2Ti1YptIOOMAOTIOj-6lWX--7IzF9Wy-rSP5zftf4naDutHUpo4zRHaesKEtUjYjIrBBLOFXk_TM9ywNJ5pXjeE_BgYXmrvYFUo7fyM6Dev5Qt6rkrb1BCQ3MHnaqOV2QkM0aQVJ86-OGM5t_KZEh7z9_lYd-ih-ZPYhWGnHKWboceePKAwJHWFcgZeXFCbISXlxqiIn5KDqUPyxcGQnbjUpivQPUtls5LC5zkZD3gef3EpLE-afZxhXW_zvv88smlzHLLk_41gq4ggVxKWrpZBQmgUmWfC6bxHKj10OFkZ5mH5Z2ANbXSgUmTsn9JM61NpxG543YxNdY0T8nMREMiTvTeWhxtaROJcuGlVkQ6SKqqmzx9U5GHrd8IR5_QFJlYtpLrB1o56PDexZck9ScI9RPSNE9R75van_VJQrWn_8MDlJvpN1hOLATe7YlyX3CADQb2XxQU0s6vc4s8u9Q4oiC0fKV2jV-AZd7cTXnUskgKtGXLxjiQ1oOVV2BnWKxEGtH5DlsukzpyNLPT1GTK9-VPaxQOgP8gpR7pvixIkDm0gQYZh7hcuNOuiZrwdHvdfue3MRWdcqCf-N9H5iqvhZhzmHcLFmgryFNjXw0Hm3IPpFtJrHLBiYtBJqWFOLXZt7WElYs3heoMj_j-EIfv94ZFd707YVo6j0iYwi2KOp00Ch-kanL2KWbSoCKKyxxCFqpRU7vmVUH7CbsV0hQbJ9V8YrWKaSL3iUtXE-RuRs2lYrXKofIcfR-gZUfYLV9JkiwcwAR6fLRBQ3Ksi0osQ=w1528-h1528-s-no?authuser=0',
+			imageUrl: './ankush.jpg',
 		},
 	];
 	return (

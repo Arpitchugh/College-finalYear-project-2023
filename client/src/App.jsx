@@ -6,7 +6,7 @@ import NewsPage from './components/News';
 import Footer from './components/Footer';
 import ProfileCard from './components/ProfileCard';
 
-const API_BASE_URL = 'https://finalyear-project-9nn3.onrender.com/';
+const API_BASE_URL = 'https://finalyear-project-9nn3.onrender.com';
 
 const App = () => {
 	const [newsItems, setNewsItems] = useState([]);
